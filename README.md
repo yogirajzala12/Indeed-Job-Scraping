@@ -1,2 +1,2 @@
 # Indeed-Job-Scraping-and-Job-Analysis
-Job Posting scraping from Indeed.com for favorable position and location 
+Job posting data scraing from Indeed.com for any given position and location 
